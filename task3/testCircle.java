@@ -1,6 +1,6 @@
 package task3;
 
-public class testCircle {
+public class TestCircle {
     public static void main(String[] args) {
         Circle c = new Circle(5, "red", 2, 5);
         System.out.println(c);

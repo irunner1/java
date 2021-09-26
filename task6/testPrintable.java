@@ -1,6 +1,6 @@
 package task6;
 
-public class testPrintable {
+public class TestPrintable {
     public static void main(String[] args) {
         Printable printable = new Phone("sosung", "150");
         printable.getPrice();

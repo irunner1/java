@@ -1,6 +1,6 @@
 package task7;
 
-public class testCircle {
+public class TestCircle {
     public static void main(String[] args) {
         Movable m1 = new movablePoint(2, 2, 10, 10);
         System.out.println(m1);

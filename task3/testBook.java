@@ -1,6 +1,6 @@
 package task3;
 
-public class testBook {
+public class TestBook {
     public static void main(String args[]) {
         Book book1 = new Book();
         book1.SetYear(1968);

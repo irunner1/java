@@ -1,6 +1,6 @@
 package task1;
 
-public class sort {
+public class Sort {
     
     private static void BubbleSort(int[] ar) {
         int tmp;
