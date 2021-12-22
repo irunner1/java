@@ -1,4 +1,4 @@
-package lab5;
+package task8;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,3 +1,5 @@
+package task8;
+
 import java.awt.*;
 
 public class Triangle extends Shape{

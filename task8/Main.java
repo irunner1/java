@@ -1,3 +1,5 @@
+package task8;
+
 import javax.swing.*;
 
 public class Main extends image {

@@ -1,3 +1,5 @@
+package task12;
+
 public class SortingStudentsByGPA implements Comparator{
     String name;
     int score;
@@ -41,5 +43,4 @@ public class SortingStudentsByGPA implements Comparator{
         if (high > i)
             QuickSort(array, i, high);
     }
-
 }

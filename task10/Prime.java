@@ -1,3 +1,5 @@
+package task10;
+
 public class Prime {
     public static boolean recursion(int num, int i) {
         if (num == 2) return true;

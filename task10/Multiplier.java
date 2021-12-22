@@ -1,5 +1,6 @@
-public class Multiplier {
+package task10;
 
+public class Multiplier {
     public static void mult(int num, int i) {
         if (i < num) {
             if (num % i == 0) {

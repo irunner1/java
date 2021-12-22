@@ -32,10 +32,10 @@ public class Dog {
     }
 
     public String toString() {
-        return name + " " + age;
+        return "Dog name is "+name + " and age is " + age;
     }
 
     public void HumanAge() {
-        System.out.print(name + " " + age*7);
+        System.out.print("Dog name is "+name + " and human age is " + age*7+"\n");
     }
 }

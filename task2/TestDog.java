@@ -5,7 +5,6 @@ public class TestDog{
         Dog d1 = new Dog(1, "asd");
         Dog d2 = new Dog(2, "dsa");
         d1.HumanAge();
-        System.out.println(" " + d2);
+        System.out.println(d2);
     }
-
 }

@@ -1,8 +1,7 @@
-package lab8;
+package task15;
 
 import java.io.*;
 import java.util.Scanner;
-
 
 public class File {
     public static void main(String[] args) {

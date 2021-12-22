@@ -1,3 +1,5 @@
+package task10;
+
 public class Summ {
     public static int recursion(int n) {
         if (n / 10 > 0) {

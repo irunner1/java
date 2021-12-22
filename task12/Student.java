@@ -1,3 +1,5 @@
+package task12;
+
 public class Student {
     int idNumber;
     String name;
